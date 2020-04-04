@@ -20,7 +20,7 @@ You are expected to attend all virtual class sessions on Tuesdays and your sched
 - When teams create their own Github repos for their projects, they will be linked here
 
 ## Syllabus
-Week<br><br> | Tuesday<br>Zoom link: https://stanford.zoom.us/j/409247439 | Thursday<br><br>
+Week | Tuesday | Thursday
 :-: | --- | --- 
 **1** | **4/7**<br><br>- Check-in and intro to spring quarter<br>- Tech stack discussion<br>- Bootcamp overview | **4/9**<br><br><br><br>SGMs
 **2** | **4/14**<br><br>Possible speaker: TBD | **4/16**<br><br>SGMs
