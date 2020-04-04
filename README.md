@@ -1,7 +1,7 @@
 # CS 52 Syllabus
 
 ### Current Announcements
-- The Zoom link will be the same for every Tuesday session. It is listed under the heading "Tuesday" in the Syllabus below
+- The Zoom link will be the same for every Tuesday session. It will be sent out over email, and we suggest you save it in your Calendar along with your weekly instance of this class for fast access. We are not posting it here to ensure that you are the only ones who have access to it.
 - Thursday Zoom links will depend on your SGM time. Read below.
 
 ### How will this quarter work?
