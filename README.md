@@ -16,6 +16,9 @@ An SGM, or Small Group Meeting, is a concept borrowed from CS 210. We will run o
 #### Attenance Policy
 You are expected to attend all virtual class sessions on Tuesdays and your scheduled SGM time on Thursdays. You are allowed up to three absenses during the quarter for any reason. For any absense, please communicate with your teaching team coach ahead of time that you will not be able to make it. We understand that things are very up in the air this quarter and that unforeseen circumstances may cause you to miss class sessions. We will try to be accomodating, but it is essential that you communicate with the teaching team.
 
+#### Team Github Pages
+- When teams create their own Github repos for their projects, they will be linked here
+
 ## Syllabus
 Week<br><br> | Tuesday<br>Zoom link: https://stanford.zoom.us/j/409247439 | Thursday<br><br>
 :-: | --- | --- 
