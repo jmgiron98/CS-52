@@ -8,6 +8,7 @@
 This quarter you will implement the idea that you ideated and prototyped in the winter. You should plan on being available for to attend class on Zoom during our regularly scheduled class times. We will be conducting class in different formats on Tuesdays and Thursdays:
 * Tuesdays: Lecture, speaker, or team presentations
 * Thursdays: SGMs (see below for an exlaination of SGMs)
+
 Refer to the syllabus below for a planned schedule for the quarter.
 
 #### What are SGMs?
